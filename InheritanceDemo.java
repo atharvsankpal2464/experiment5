@@ -12,7 +12,7 @@ class Car extends Vehicle {
     }
 }
 
-public class Test {
+public class InheritanceDemo{
     public static void main(String[] args) {
         // Creating object of subclass invokes base class constructor
         Car obj = new Car();
